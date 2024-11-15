@@ -2,6 +2,16 @@
 
 An interactive and user-friendly online learning platform built using the MERN (MongoDB, Express.js, React, Node.js) stack. This project enables students to browse and enroll in courses, manage payments securely via Razorpay integration, and provides administrators with a dashboard to manage courses and users.
 
+**NAAN MUDHALVAN PROJECT**
+TEAM ID -  NM2024TMID11726
+
+SUBMITTED BY-
+SUJAY S (2021103585)
+THANUSHRAJ M M (2021103742)
+UMA T (2021103593)
+MONISH K (2021103544)
+
+
 # Project Overview
 
 The Online Learning Platform offers a comprehensive digital solution for online education, connecting students with high-quality educational content. Students can browse courses, enroll through a secure payment system (Razorpay), and manage their learning progress. Administrators can easily add or remove courses, manage users, and monitor enrollment and payment information. This platform is designed to support scalability, ease of use, and secure transactions.
