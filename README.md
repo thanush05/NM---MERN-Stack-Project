@@ -2,9 +2,9 @@
 
 An interactive and user-friendly online learning platform built using the MERN (MongoDB, Express.js, React, Node.js) stack. This project enables students to browse and enroll in courses, manage payments securely via Razorpay integration, and provides administrators with a dashboard to manage courses and users.
 
-**NAAN MUDHALVAN PROJECT**
+# NAAN MUDHALVAN PROJECT
 
-TEAM ID -  NM2024TMID11726
+**TEAM ID -  NM2024TMID11726**
 
 SUBMITTED BY-
 
